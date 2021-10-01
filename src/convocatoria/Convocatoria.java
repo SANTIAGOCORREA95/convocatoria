@@ -116,7 +116,7 @@ public class Convocatoria{
         else
         {
             System.out.println("La convocatoria está completa.");
-            System.out.println("Tienes un total de 23 jugadores convocados!!\n");
+            
         }
     }
     
